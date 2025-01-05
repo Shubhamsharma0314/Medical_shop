@@ -11,3 +11,6 @@ b)	To reduce processing time.
 c)	Easily maintained.
 d)	Reduce manual error.
 e)	To increase growth and profit for the organization
+
+Password for daily summary section is-
+shubh@123
