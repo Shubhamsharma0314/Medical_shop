@@ -14,3 +14,6 @@ e)	To increase growth and profit for the organization
 
 Password for daily summary section is-
 shubh@123
+
+Language used : C++
+Editor used : Dev c++
